@@ -10,3 +10,6 @@ This project demonstrates a clean and accessible layout using pure HTML and CSS 
 
 - HTML5
 - CSS3 (Flexbox / Media Queries, etc.)
+
+## Live Demo 
+https://esraalsayyed.github.io/Mealify/
