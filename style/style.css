@@ -29,6 +29,7 @@ a {
 .navbar {
   display: flex;
   justify-content: space-around;
+  align-items: center;
   background-color: #ffffff;
   padding: 1.0625rem 0.3125rem;
   z-index: 100;
